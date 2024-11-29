@@ -1,4 +1,3 @@
-// this main from chatgpt bec i want to see the same output like in the assignment powerpoint
 
 import java.util.Random;
 
